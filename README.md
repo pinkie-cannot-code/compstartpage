@@ -1,12 +1,8 @@
-# Startpage
+# a startpage for waterfox on my 'puter!
 
-[Live Preview](https://kencx.github.io/startpage/)
+[the thingie](https://pinkie-cannot-code.github.io/)
 
-Feel free to fork and make your own changes!
+forked from [here!](https://github.com/kencx/startpage)
 
-- Font: Fira Code
-- Colorscheme: Gruvbox Dark
-- Cat Gif: [Here](https://twitter.com/avogado6/status/1165595520967954432?s=19)
-
-![startpage](startpage.gif)
+[the shadow gif](https://tenor.com/view/shadow-the-hedgehog-shadow-smile-grin-sonic-gif-25101683)
 
