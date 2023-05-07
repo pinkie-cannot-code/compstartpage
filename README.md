@@ -6,3 +6,4 @@ forked from [here!](https://github.com/kencx/startpage)
 
 [the shadow gif](https://tenor.com/view/shadow-the-hedgehog-shadow-smile-grin-sonic-gif-25101683)
 
+![startpage](https://i.imgur.com/4lAX0Rg.gif)
